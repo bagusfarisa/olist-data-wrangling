@@ -1,3 +1,13 @@
 /.DS_Store
 /.venv
 /olist.db
+.gitignore
+clean_dataset/df_geolocation.csv
+clean_dataset/order_customer.csv
+clean_dataset/df_order_items.csv
+clean_dataset/df_order_payments.csv
+clean_dataset/df_order_reviews.csv
+clean_dataset/df_order.csv
+clean_dataset/df_product_cat_name_transl.csv
+clean_dataset/df_products.csv
+clean_dataset/df_sellers.csv
